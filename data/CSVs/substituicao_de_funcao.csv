@@ -1,3 +1,15 @@
 Atributo,Obrigatoriedade,Padrão
 Nome do Servidor Substituto,Obrigatório,Letras maiúsculas
-Matrícula Servidor Substituto,Obrigatório,Letras maiúsculas aṕos 'DESIGNAR'
+Matrícula do Servidor Substituto,Obrigatório,Letras maiúsculas aṕos 'DESIGNAR'
+Nome do Servidor a ser Substituido,Não Obrigatório,Após 'para substituir'
+Matrícula do Servidor a ser Substituido,Obrigatório,Após 'matrícula n°'
+Cargo efetivo ou comissionado do servidor substituto,Não Obrigatório,Sem Padrão
+Símbolo do cargo do servidor substituto,Não Obrigatório,Após 'Símbolo'
+Cargo comissionado objeto da substituição,Não Obrigatório,Sem Padrão
+Símbolo do cargo comissionado objeto da substituição,Não Obrigatório,Após 'Símbolo'
+Hierarquia da Lotação,Não Obrigatório,Sem Padrão
+Órgão,Obrigatório,Sem Padrão
+Data Inicial da Vigência,Não Obrigatório,Após 'no período de'
+Data Final de Vigência,Não Obrigatório,Após Data Inicial da Vigência
+Matrícula SIAPE,Não Obrigatório,Após 'SIAPE'
+Motivo,Não Obrigatório,'em virtude ou a pedido'

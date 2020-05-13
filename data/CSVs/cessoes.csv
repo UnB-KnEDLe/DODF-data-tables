@@ -1,0 +1,17 @@
+Atributo,Obrigatoriedade,Padrão
+Nome do Servidor Substituto,Obrigatório,Letras maiúsculas
+Matrícula,Obrigatório,Após 'matrícula n°'
+Cargo Efetivo,Obrigatório,Sem Padrão
+Classe,Não Obrigatório,Após cargo
+Padrão,Não Obrigatório,Após Classe
+Órgão Cedente,Não Obrigatório,Sem Padrão
+Órgão Cessionário,Obrigatório,Sem Padrão
+Ônus,Obrigatório,Após 'com ônus para'
+Fundamento Legal,Obrigatório,Começa com 'nos termos do'
+Processo GDF/SEI,Obrigatório,Após 'Processo:'
+Vigência,Não Obrigatório,Sem Padrão
+Matrícula SIAPE,Não Obrigatório,Após 'SIAPE'
+Cargo que exercerá no órgão cessionário,Não Obrigatório,Sem Padrão
+Simbolo do cargo que exercerá no orgão cessionário,Não Obrigatório,Sem Padrão
+Hierarquia da Lotação no orgão cessionário,Não Obrigatório,Sem Padrão
+

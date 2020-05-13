@@ -1,0 +1,15 @@
+Atributo,Obrigatoriedade,Padrão
+Edital Normativo,Obrigatório,Começa com 'Edital Normativo'
+Data do Edital Normativo,Não Obrigatório,Sem Padrão
+Número do DODF do Edital Normativo,Não Obrigatório,Após 'publicado no DODF n°'
+Data do DODF do Edital Normativo,Não Obrigatório,Após Número do DODF do Edital Normativo
+Edital de Resultado Final,Obrigatório,Começa com 'Edital de Homologação'
+Data do Edital de Resultado Final,Obrigatório,Sem Padrão
+Cargo,Obrigatório,Letras maisculas após Processo GDF/SEI
+Especialiade,Não Obrigatório,Sem Padrão
+Carreira,Não Obrigatório,Após 'da Carreira'
+Órgão,Obrigatório,Após 'do Quadro de Pessoal'
+Nome do Candidato,Obrigatório,Letras maisculas
+Classificação,Não Obrigatório,Após Nome do Candidato
+Portador de deficiência/necessidade especiais,Não Obrigatório,Começa com 'Candidato que se'
+Processo GDF/SEI,Não Obrigatório,Após 'SEI n°'
