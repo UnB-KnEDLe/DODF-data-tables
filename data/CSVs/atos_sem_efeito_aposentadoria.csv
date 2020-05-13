@@ -1,0 +1,18 @@
+Atributo,Obrigatoriedade,Padrão
+Tipo de documento,Obrigatório,Sem Padrão
+Número do documento onde está o item tornado sem efeito,Obrigatório,Sem Padrão
+Data do documento onde está o item tornado sem efeito,Obrigatório,Sem Padrão
+Número do DODF,Não Obrigatório,Após 'n°'
+Data do DODF,Obrigatório,Sem Padrão
+Página do DODF,Não Obrigatório,Após 'página'
+Nome do Servidor,Obrigatório,Letras maiúsculas
+Matrícula,Obrigatório,Após 'matrícula n°'
+Cargo Efetivo,Obrigatório,Sem Padrão
+Classe,Não Obrigatório,Após cargo
+Padrão,Não Obrigatório,Após Classe
+Quadro pessoal permanente ou Suplementar,Obrigatório,"Após padrão, começa com 'do Quadro'"
+Fundamento Legal,Obrigatório,Começa com 'nos termos do'
+Órgão,Obrigatório,Sem Padrão
+Processo GDF/SEI,Obrigatório,Começa com 'Processo SEI'
+Vigência,Não Obrigatório,Após 'a contar de'
+Matricula SIAPE,Não Obrigatório,SIAPE

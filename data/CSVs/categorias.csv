@@ -1,0 +1,15 @@
+Categorias,Regex,Multiplo,Frequência
+Exonerações,"EXONERAR, ",SIM,Alta
+Nomeação Cargos Comissionados,NOMEAR,SIM,Alta
+Atos tornados sem efeitos-(Nom / Exo),TORNAR SEM EFEITO,SIM,Alta
+Retificações-(Nom / Exo) ,No Decreto de,SIM,Média
+Aposentadorias,"['CONCEDER', 'APOSENTAR']",NÃO,Alta
+Reversões,REVERTER A ATIVIDADE,NÃO,Média
+Atos tonados sem efeitos-(Aposentadoria),TORNAR SEM EFEITO,SIM,Média
+Abono de Permanência,CONCEDER ABONO DE PERMANÊNCIA,NÃO,Baixa
+Retificações-(Aposentadorias),RETIFICAR,NAO,Baixa
+Exonerar cargos efetivos,"EXONERAR, a pedido,",SIM,Baixo
+Substituição de Funções,"['Designar', 'DESIGNAR']",NÃO,Baixo
+Cessões,Processo:,NÃO,Média
+Nomeação de Cargos Efetivos,NOMEAR os candidatos abaixo,SIM,Média
+Reposicionamento de Lista de Classificação,?,NÃO,Baixa

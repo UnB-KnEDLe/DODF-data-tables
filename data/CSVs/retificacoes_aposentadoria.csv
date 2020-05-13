@@ -1,0 +1,15 @@
+Atributo,Obrigatoriedade,Padrão
+Tipo de documento,Obrigatório,Sem Padrão
+Número do documento onde está o item tornado sem efeito,Obrigatório,Sem Padrão
+Data do documento onde está o item tornado sem efeito,Obrigatório,Sem Padrão
+Número do DODF,Não Obrigatório,Após 'n°'
+Data do DODF,Obrigatório,Sem Padrão
+Página do DODF,Não Obrigatório,Após 'página'
+Nome do Servidor,Obrigatório,Letras maiúsculas
+Matrícula,Obrigatório,Após 'matrícula n°'
+Cargo Efetivo,Obrigatório,Sem Padrão
+Classe,Não Obrigatório,Após cargo
+Padrão,Não Obrigatório,Após Classe
+Matricula SIAPE,Não Obrigatório,SIAPE
+Informação Errada,Obrigatório,Após 'ONDE SE LÊ'
+Informação Corrigida,Obrigatório,Após 'LEIA-SE'

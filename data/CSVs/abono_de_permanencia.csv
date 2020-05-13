@@ -1,0 +1,13 @@
+Atributo,Obrigatoriedade,Padrão
+Nome do Servidor,Obrigatório,Letras maiúsculas
+Matrícula,Obrigatório,Após 'matrícula n°'
+Cargo Efetivo,Obrigatório,Sem Padrão
+Classe,Não Obrigatório,Após cargo
+Padrão,Não Obrigatório,Após Classe
+Quadro pessoal permanente ou Suplementar,Obrigatório,"Após padrão, começa com 'do Quadro'"
+Fundamento Legal do abono de permanência,Obrigatório,Após 'com fundamento no' ou 'com base no' 
+Fundamento Legal,Não Obrigatório,Começa com 'nos termos do'
+Órgão,Não Obrigatório,Sem Padrão
+Processo GDF/SEI,Obrigatório,Começa com 'Processo SEI'
+Vigência,Não Obrigatório,Após 'a contar de'
+Matricula SIAPE,Não Obrigatório,SIAPE

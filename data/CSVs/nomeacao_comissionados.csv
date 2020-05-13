@@ -1,0 +1,9 @@
+Atributo,Obrigatoriedade,Padrão
+Nome do Servidor,Obrigatório,Letras maiúsculas
+Cargo Efetivo,Não Obrigatório,Sem Padrão
+Matrícula,Obrigatório,Após 'matrícula n°'
+Matrícula SIAPE,Não Obrigatório,Após 'SIAPE'
+Símbolo,Obrigatório,Após 'Símbolo'
+Cargo em Comissão,Obrigatório,Após Simbolo
+Hierarquia da Lotação,Obrigatório,Após Cargo em Comissão
+Orgão,Obrigatório,Após Hierarquia da Lotação

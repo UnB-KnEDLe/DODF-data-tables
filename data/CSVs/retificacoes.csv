@@ -1,0 +1,12 @@
+Atributo,Obrigatoriedade,Padrão
+Tipo de documento,Não Obrigatório,Sem Padrão
+Data do documento onde está o item tornado sem efeito,Obrigatório,Sem Padrão
+Número do DODF,Não Obrigatório,Após 'n°'
+Data do DODF,Obrigatório,Sem Padrão
+Página do DODF,Não Obrigatório,Após 'página'
+Nome do Servidor,Obrigatório,Letras maiúsculas
+Lotação,Não Obrigatório,Sem Padrão
+Informação Errada,Obrigatório,Após 'ONDE SE LÊ'
+Informação Corrigida,Obrigatório,Após 'LEIA-SE'
+Tipo de edição,Não Obrigatório,Sem Padrão
+Tipo de Ato,Obrigatório,Após 'ato que'
