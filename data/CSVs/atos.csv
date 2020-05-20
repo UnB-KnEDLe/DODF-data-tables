@@ -1,4 +1,4 @@
-Categorias,Regex,Multiplo,Frequência
+Atos,Regex,Multiplo,Frequência
 Exonerações,"EXONERAR, ",SIM,Alta
 Nomeação Cargos Comissionados,NOMEAR,SIM,Alta
 Atos tornados sem efeitos-(Nom / Exo),TORNAR SEM EFEITO,SIM,Alta
